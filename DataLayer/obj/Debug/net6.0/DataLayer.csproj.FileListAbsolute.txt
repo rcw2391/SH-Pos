@@ -1,0 +1,15 @@
+C:\SH\SH\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+C:\SH\SH\DataLayer\bin\Debug\net6.0\DataLayer.dll
+C:\SH\SH\DataLayer\bin\Debug\net6.0\ref\DataLayer.dll
+C:\SH\SH\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+C:\SH\SH\DataLayer\bin\Debug\net6.0\Common.dll
+C:\SH\SH\DataLayer\bin\Debug\net6.0\Common.pdb
+C:\SH\SH\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+C:\SH\SH\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\SH\SH\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+C:\SH\SH\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+C:\SH\SH\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\SH\SH\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CopyComplete
+C:\SH\SH\DataLayer\obj\Debug\net6.0\DataLayer.dll
+C:\SH\SH\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll
+C:\SH\SH\DataLayer\obj\Debug\net6.0\DataLayer.pdb

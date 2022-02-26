@@ -1,0 +1,954 @@
+[
+  {
+    "_id": { "oldId": "5e0e48ccf4f4372520c7e36f" },
+    "isCustom": true,
+    "desc": "Custom",
+    "price": "0.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "-1" }
+  },
+  {
+    "_id": { "oldId": "5e0fa7b2879027309c48dec9" },
+    "isCustom": false,
+    "desc": "BRAZILIAN BLOWOUT volume shampoo 12oz",
+    "price": "34.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e0fa7d2879027309c48deca" },
+    "isCustom": false,
+    "desc": "BRAZILIAN BLOWOUT volume conditioner 12oz",
+    "price": "36.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e0fa80d879027309c48decb" },
+    "isCustom": false,
+    "desc": "BRAZILIAN BLOWOUT anti-frizz shampoo 12oz",
+    "price": "34.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "4" }
+  },
+  {
+    "_id": { "oldId": "5e0fa82d879027309c48decc" },
+    "isCustom": false,
+    "desc": "BRAZILIAN BLOWOUT anti-frizz conditioner 12oz",
+    "price": "36.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "6" }
+  },
+  {
+    "_id": { "oldId": "5e0fa85a879027309c48decd" },
+    "isCustom": false,
+    "desc": "BRAZILIAN BLOWOUT deep cond. mask 8oz",
+    "price": "40.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "5" }
+  },
+  {
+    "_id": { "oldId": "5e0fa882879027309c48dece" },
+    "isCustom": false,
+    "desc": "BRAZILIAN BLOWOUT smoothing serum 8oz",
+    "price": "38.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "3" }
+  },
+  {
+    "_id": { "oldId": "5e0fa903879027309c48decf" },
+    "isCustom": false,
+    "desc": "BRAZILIAN BLOWOUT thermal straightening balm 8 oz",
+    "price": "28.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e0fa935879027309c48ded0" },
+    "isCustom": false,
+    "desc": "BRAZILIAN BLOWOUT dry oil 4oz. ",
+    "price": "26.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0fa952879027309c48ded1" },
+    "isCustom": false,
+    "desc": "BRAZILIAN BLOWOUT ionic bonding spray 4oz",
+    "price": "30.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "4" }
+  },
+  {
+    "_id": { "oldId": "5e0fa97c879027309c48ded2" },
+    "isCustom": false,
+    "desc": "BRAZILIAN BLOWOUT defining polish 2oz",
+    "price": "28.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "3" }
+  },
+  {
+    "_id": { "oldId": "5e0faa6dad75f0026c1cc1bf" },
+    "isCustom": false,
+    "desc": "BAINDETERRE strengthening shampoo 13.5oz",
+    "price": "13.34",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0faa8fad75f0026c1cc1c0" },
+    "isCustom": false,
+    "desc": "BAINDETERRE strengthening conditioner 13.5oz",
+    "price": "15.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0fabc8ad75f0026c1cc1c2" },
+    "isCustom": false,
+    "desc": "BAINDETERRE strengthening conditioner 33.5oz",
+    "price": "27.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e0fac56ad75f0026c1cc1c3" },
+    "isCustom": false,
+    "desc": "BAINDETERRE strengthening shampoo 33.5oz",
+    "price": "23.34",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "2" }
+  },
+  {
+    "_id": { "oldId": "5e0facf3ad75f0026c1cc1c4" },
+    "isCustom": false,
+    "desc": "BAINDETERRE color preserving shampoo 13.5oz",
+    "price": "14.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e0fad10ad75f0026c1cc1c5" },
+    "isCustom": false,
+    "desc": "BAINDETERRE color preserving conditioner 13.5oz",
+    "price": "15.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e0fad2fad75f0026c1cc1c6" },
+    "isCustom": false,
+    "desc": "BAINDETERRE color preserving shampoo 33.5oz",
+    "price": "24.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e0fad52ad75f0026c1cc1c7" },
+    "isCustom": false,
+    "desc": "BAINDETERRE color preserving conditioner 33.5oz",
+    "price": "26.66",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0fad93ad75f0026c1cc1c8" },
+    "isCustom": false,
+    "desc": "BAINDETERRE sweet almond duo set 33.5oz",
+    "price": "32.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0fadb2ad75f0026c1cc1c9" },
+    "isCustom": false,
+    "desc": "SENSATIONAL HAIR hairspray ",
+    "price": "10.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "-4" }
+  },
+  {
+    "_id": { "oldId": "5e0fadf4ad75f0026c1cc1ca" },
+    "isCustom": false,
+    "desc": "MATRIX TOTAL RESULTS brass off mask 6.8oz",
+    "price": "24.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e0fae14ad75f0026c1cc1cb" },
+    "isCustom": false,
+    "desc": "MATRIX TOTAL RESULTS brass off shampoo 10.1oz",
+    "price": "14.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e0fae55ad75f0026c1cc1cc" },
+    "isCustom": false,
+    "desc": "MATRIX TOTAL RESULTS brass off conditioner 10.1oz",
+    "price": "14.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e0fae73ad75f0026c1cc1cd" },
+    "isCustom": false,
+    "desc": "MATRIX TOTAL RESULTS brass off shampoo 33.8oz",
+    "price": "26.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "2" }
+  },
+  {
+    "_id": { "oldId": "5e0fae9ead75f0026c1cc1ce" },
+    "isCustom": false,
+    "desc": "MATRIX TOTAL RESULTS brass off conditioner 33.8oz",
+    "price": "25.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e0faee8ad75f0026c1cc1cf" },
+    "isCustom": false,
+    "desc": "MATRIX TOTAL RESULTS keep me vivid duo set 10.1oz",
+    "price": "12.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0faf15ad75f0026c1cc1d0" },
+    "isCustom": false,
+    "desc": "MATRIX TOTAL RESULTS instacure 16.9oz",
+    "price": "14.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0faf40ad75f0026c1cc1d1" },
+    "isCustom": false,
+    "desc": "MATRIX TOTAL RESULTS wonder boost 8.5oz",
+    "price": "17.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e0faf5fad75f0026c1cc1d2" },
+    "isCustom": false,
+    "desc": "MATRIX TOTAL RESULTS high amplify hairspray",
+    "price": "17.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "2" }
+  },
+  {
+    "_id": { "oldId": "5e0faf91ad75f0026c1cc1d3" },
+    "isCustom": false,
+    "desc": "MATRIX TOTAL RESULTS proforma hairspray",
+    "price": "17.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "3" }
+  },
+  {
+    "_id": { "oldId": "5e0fafbead75f0026c1cc1d4" },
+    "isCustom": false,
+    "desc": "RUSK paste 4oz",
+    "price": "20.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "-1" }
+  },
+  {
+    "_id": { "oldId": "5e0fafecad75f0026c1cc1d5" },
+    "isCustom": false,
+    "desc": "JOHNNY B mode 32oz",
+    "price": "28.88",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0fb1a1ad75f0026c1cc1d8" },
+    "isCustom": false,
+    "desc": "JOHNNY B mode 6.7oz",
+    "price": "13.33",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "3" }
+  },
+  {
+    "_id": { "oldId": "5e0fb204ad75f0026c1cc1d9" },
+    "isCustom": false,
+    "desc": "JOHNNY B fuddy 3.3oz ",
+    "price": "13.33",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "-1" }
+  },
+  {
+    "_id": { "oldId": "5e10c100e2eb3c183807d1b8" },
+    "isCustom": false,
+    "desc": "CHI straight gaurd 8.5oz",
+    "price": "16.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e10c1a4e2eb3c183807d1b9" },
+    "isCustom": false,
+    "desc": "CHI helmet head hairspray ",
+    "price": "17.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e10c1d2e2eb3c183807d1ba" },
+    "isCustom": false,
+    "desc": "TIGI masterpiece hairspray",
+    "price": "22.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e10c206e2eb3c183807d1bb" },
+    "isCustom": false,
+    "desc": "TIGI revitalizing dry shampoo",
+    "price": "22.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e10c37ee2eb3c183807d1bc" },
+    "isCustom": false,
+    "desc": "BIOSILK rock hard gel",
+    "price": "17.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e10c3a6e2eb3c183807d1bd" },
+    "isCustom": false,
+    "desc": "ITS A 10 miracle styling creme",
+    "price": "20.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "2" }
+  },
+  {
+    "_id": { "oldId": "5e10c3cce2eb3c183807d1be" },
+    "isCustom": false,
+    "desc": "ITS A 10 dry oil spray plus keratin",
+    "price": "23.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e10c40de2eb3c183807d1bf" },
+    "isCustom": false,
+    "desc": "JOICO color endure violet shampoo 10.1oz",
+    "price": "17.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e10c443e2eb3c183807d1c0" },
+    "isCustom": false,
+    "desc": "JOICO color endure violet conditioner  10.1oz",
+    "price": "19.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e10c46ee2eb3c183807d1c1" },
+    "isCustom": false,
+    "desc": "JOICO moisture recovery treatment balm 8.5oz",
+    "price": "19.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e10c571e2eb3c183807d1c2" },
+    "isCustom": false,
+    "desc": "JOICO KPAK 5.1oz",
+    "price": "23.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "2" }
+  },
+  {
+    "_id": { "oldId": "5e10c625e2eb3c183807d1c3" },
+    "isCustom": false,
+    "desc": "PAUL MITCHELL tea tree shampoo 16.9oz",
+    "price": "23.36",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e10c643e2eb3c183807d1c4" },
+    "isCustom": false,
+    "desc": "PAUL MITCHELL tea tree hair and scalp trearment",
+    "price": "20.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e10c65ae2eb3c183807d1c5" },
+    "isCustom": false,
+    "desc": "PAUL MITCHELL tea tree conditioner",
+    "price": "14.73",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e10c6a4e2eb3c183807d1c6" },
+    "isCustom": false,
+    "desc": "PAUL MITCHELL shampoo three16.9oz",
+    "price": "18.35",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "-1" }
+  },
+  {
+    "_id": { "oldId": "5e10c6d3e2eb3c183807d1c7" },
+    "isCustom": false,
+    "desc": "PAUL MITCHELL xtra body daily rinse 10.1oz",
+    "price": "12.78",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e10c712e2eb3c183807d1c8" },
+    "isCustom": false,
+    "desc": "PAUL MITCHELL super skinny serum 5.1oz",
+    "price": "24.44",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "1" }
+  },
+  {
+    "_id": { "oldId": "5e10c72de2eb3c183807d1c9" },
+    "isCustom": false,
+    "desc": "PAUL MITCHELL super skinny serum 8.5oz",
+    "price": "33.34",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "2" }
+  },
+  {
+    "_id": { "oldId": "5e10c775e2eb3c183807d1ca" },
+    "isCustom": false,
+    "desc": "PAUL MITCHELL extra body boost 8.5oz",
+    "price": "17.78",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "2" }
+  },
+  {
+    "_id": { "oldId": "5e10c79ee2eb3c183807d1cb" },
+    "isCustom": false,
+    "desc": "PAUL MITCHELL extra body sculpting foam 6.7oz",
+    "price": "14.68",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "-1" }
+  },
+  {
+    "_id": { "oldId": "5e10c7d7e2eb3c183807d1cc" },
+    "isCustom": false,
+    "desc": "PAUL MITCHELL flexible style super sculpt 8.5oz",
+    "price": "10.00",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "2" }
+  },
+  {
+    "_id": { "oldId": "5e10c826e2eb3c183807d1cd" },
+    "isCustom": false,
+    "desc": "PAUL MITCHELL flexible style super sculpt 16.9oz",
+    "price": "17.80",
+    "__v": { "numberInt": "0" },
+    "qty": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e175fb373b1031df4856934" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "AQUAGE vitalizing shampoo 12oz",
+    "price": "16.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e175ff773b1031df4856935" },
+    "isCustom": false,
+    "qty": { "numberInt": "0" },
+    "desc": "AQUAGE vitalizing shampoo 35oz",
+    "price": "29.90",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e17601873b1031df4856936" },
+    "isCustom": false,
+    "qty": { "numberInt": "0" },
+    "desc": "AQUAGE equalizing detangler 35oz.",
+    "price": "29.90",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e17608773b1031df4856937" },
+    "isCustom": false,
+    "qty": { "numberInt": "2" },
+    "desc": "AQUAGE transforming paste 3.5oz",
+    "price": "24.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1760ab73b1031df4856938" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "AQUAGE uplifting foam 8oz",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1760d873b1031df4856939" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "AQUAGE curl defining creme 6oz.",
+    "price": "18.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1760fa73b1031df485693a" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "AQUAGE transforming paste light 3.5oz",
+    "price": "24.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1761d373b1031df485693b" },
+    "isCustom": false,
+    "qty": { "numberInt": "0" },
+    "desc": "AQUAGE volumizing mist 8oz",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1761fc73b1031df485693c" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "AQUAGE  beyond body sealing spray 7oz.",
+    "price": "17.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e17622473b1031df485693d" },
+    "isCustom": false,
+    "qty": { "numberInt": "0" },
+    "desc": "BIOSILK silk therapy shine on",
+    "price": "17.30",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e17625973b1031df485693e" },
+    "isCustom": false,
+    "qty": { "numberInt": "0" },
+    "desc": "BIOSILK silk therapy original 5.64oz",
+    "price": "32.76",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e17637d73b1031df4856943" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "MATRIX BIOLAGE color last shampoo 13.5oz",
+    "price": "18.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1763b673b1031df4856944" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "MATRIX BIOLAGE color last shampoo 33.8oz",
+    "price": "27.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1763d473b1031df4856945" },
+    "isCustom": false,
+    "qty": { "numberInt": "3" },
+    "desc": "MATRIX BIOLAGE color last conditioner 13.5oz",
+    "price": "19.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1763f673b1031df4856946" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "MATRIX BIOLAGE color last conditioner 33.8oz",
+    "price": "29.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e17643f73b1031df4856947" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "MATRIX BIOLAGE hydrasource shampoo 13.5oz",
+    "price": "18.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1771ab9821812a98611d4e" },
+    "isCustom": false,
+    "qty": { "numberInt": "2" },
+    "desc": "MATRIX BIOLAGE hydrasourse conditioning balm 9.5oz",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1771e39821812a98611d4f" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "MATRIX BIOLAGE hydrasource daily leave in creme",
+    "price": "18.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1772119821812a98611d50" },
+    "isCustom": false,
+    "qty": { "numberInt": "0" },
+    "desc": "MATRIX BIOLAGE volume bloom shampoo 13.5oz",
+    "price": "18.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1772449821812a98611d51" },
+    "isCustom": false,
+    "qty": { "numberInt": "0" },
+    "desc": "MATRIX BIOLAGE volume bloom conditioner 13.5oz",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e17726b9821812a98611d52" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "MATRIX BIOLAGE scalp sync antidandruff shampoo 13.5oz",
+    "price": "18.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e17732c9821812a98611d53" },
+    "isCustom": false,
+    "qty": { "numberInt": "0" },
+    "desc": "MATRIX BIOLAGE normalizing cleanreset shampoo 13.5oz",
+    "price": "18.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e17736a9821812a98611d54" },
+    "isCustom": false,
+    "qty": { "numberInt": "0" },
+    "desc": "MATRIX BIOLAGE fiber strong shampoo 13.5oz",
+    "price": "21.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1774c69821812a98611d59" },
+    "isCustom": false,
+    "qty": { "numberInt": "0" },
+    "desc": "MATREIX BIOLAGE fiberstrong conditioner 13.5oz",
+    "price": "21.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1774f79821812a98611d5a" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "MATRIX BIOLAGE styling gelee 16.9",
+    "price": "17.78",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1775729821812a98611d5b" },
+    "isCustom": false,
+    "qty": { "numberInt": "2" },
+    "desc": "MATRIX BIOLAGE styling blow in control 3.4oz",
+    "price": "16.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e17759e9821812a98611d5c" },
+    "isCustom": false,
+    "qty": { "numberInt": "3" },
+    "desc": "MATRIX BIOLAGE styling thermal active spray 8.5oz",
+    "price": "18.50",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1775c19821812a98611d5d" },
+    "isCustom": false,
+    "qty": { "numberInt": "5" },
+    "desc": "REF fiber mousse",
+    "price": "24.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1776039821812a98611d5e" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "MATRIX TOTAL RESULTS duo mega sleek 33.8oz",
+    "price": "32.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e177bfe9821812a98611d63" },
+    "isCustom": false,
+    "qty": { "numberInt": "2" },
+    "desc": "BRAZILIAN BONDBUILDER color care shampoo 12oz",
+    "price": "31.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e177c3a9821812a98611d64" },
+    "isCustom": false,
+    "qty": { "numberInt": "2" },
+    "desc": "BRAZILIAN BONDBUILDER color care conditioner 12oz",
+    "price": "31.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e177c959821812a98611d65" },
+    "isCustom": false,
+    "qty": { "numberInt": "0" },
+    "desc": "BRAZILIAN BONDBUILDER ionic color lock 4.75oz",
+    "price": "30.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1f799eb0005b3a6458592d" },
+    "isCustom": false,
+    "qty": { "numberInt": "2" },
+    "desc": "REF Weightless Volume Shampoo 25.36oz",
+    "price": "22.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1f7a04b0005b3a6458592e" },
+    "isCustom": false,
+    "qty": { "numberInt": "2" },
+    "desc": "REF Flexible Spray",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e2228ba3317ed443cf73fd9" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "REF Ultimate Repair Shampoo",
+    "price": "32.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e2228ee3317ed443cf73fda" },
+    "isCustom": false,
+    "qty": { "numberInt": "2" },
+    "desc": "REF Extreme Hold Spray",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e2229633317ed443cf73fdb" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "REF Ultimate Repair Conditioner 25.36oz",
+    "price": "32.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e2229993317ed443cf73fdc" },
+    "isCustom": false,
+    "qty": { "numberInt": "4" },
+    "desc": "REF Hold and Shine Spray",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e2229bc3317ed443cf73fdd" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "REF Firm Hold Spray ",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e23953be2827042ecef6458" },
+    "isCustom": false,
+    "qty": { "numberInt": "0" },
+    "desc": "BB",
+    "price": "25.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e31d967cba74c02a44eebdf" },
+    "isCustom": false,
+    "qty": { "numberInt": "-2" },
+    "desc": "BAINDETERRE color preserving litter duo",
+    "price": "32.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e33559b4878e026741cdbb0" },
+    "isCustom": false,
+    "qty": { "numberInt": "2" },
+    "desc": "BAINDETERRE strengthening duo liter",
+    "price": "32.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e3355c74878e026741cdbb1" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "AQUAGE  beyond shine 5oz.",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e3355e94878e026741cdbb2" },
+    "isCustom": false,
+    "qty": { "numberInt": "0" },
+    "desc": "RUSK glue 4oz.",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e4d62e8cd713e15d882e81f" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "JOHNNY B mode 16oz.",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e5588dd5107d72c14172446" },
+    "isCustom": false,
+    "qty": { "numberInt": "2" },
+    "desc": "BRAZILIAN BLOWOUT spray shine 4oz.",
+    "price": "28.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e6967411557cb3a4889db5f" },
+    "isCustom": false,
+    "qty": { "numberInt": "-1" },
+    "desc": "PAUL MITCHELL Tea Tree tingle duo",
+    "price": "24.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e6967741557cb3a4889db60" },
+    "isCustom": false,
+    "qty": { "numberInt": "0" },
+    "desc": "PAUL MITCHELL Tea Tree special shampoo 10.14oz.",
+    "price": "14.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e6967a01557cb3a4889db61" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "PAUL MITCHELL Tea Tree special conditioner 10.14oz.",
+    "price": "14.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e724bcd7d7212302447ee0f" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "REF Ultimate repair masque 6.76oz.",
+    "price": "22.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e724bff7d7212302447ee10" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "REF Ultimate repair conditioner 8.28oz.",
+    "price": "22.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e724c297d7212302447ee11" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "REF Ultimate repair shampoo 9.63oz.",
+    "price": "22.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5f4828f84621500f7413cf2f" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "Matrix Alternate Action Shampoo 16.9oz",
+    "price": "13.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5fca89d324cdd50178085da2" },
+    "isCustom": false,
+    "qty": { "numberInt": "0" },
+    "desc": "BAINDETERRE color preserving duo 13.5oz.",
+    "price": "23.98",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5fca8a1d24cdd50178085da3" },
+    "isCustom": false,
+    "qty": { "numberInt": "3" },
+    "desc": "RUSK W8less plus hairspray 12.5oz",
+    "price": "16.52",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5ff601f6f04e6204047c76f5" },
+    "isCustom": false,
+    "qty": { "numberInt": "2" },
+    "desc": "REF dry shampoo 6.8oz",
+    "price": "22.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "60412f18357f592d54637eb9" },
+    "isCustom": false,
+    "qty": { "numberInt": "3" },
+    "desc": "RUSK Shine Spray",
+    "price": "10.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "60412f2e357f592d54637eba" },
+    "isCustom": false,
+    "qty": { "numberInt": "3" },
+    "desc": "RUSK Dry Shampoo",
+    "price": "10.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "60413e14f47bf535c0ae5f53" },
+    "isCustom": false,
+    "qty": { "numberInt": "0" },
+    "desc": "BRAZILIAN BLOWOUT Shampoo/Cond duo",
+    "price": "50.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "60789324fe1f3e3050fab199" },
+    "isCustom": false,
+    "qty": { "numberInt": "3" },
+    "desc": "JOICO KPAK 8.5OZ",
+    "price": "33.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "60789653fe1f3e3050fab19a" },
+    "isCustom": false,
+    "qty": { "numberInt": "1" },
+    "desc": "MATRIX TOTAL RESULTS Length Goals Kit",
+    "price": "38.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "609d3aaaa7ab502fb4043d37" },
+    "isCustom": false,
+    "qty": { "numberInt": "3" },
+    "desc": "JOHNNY B Mode Styling Gel 3.3 oz",
+    "price": "7.00",
+    "__v": { "numberInt": "0" }
+  }
+]

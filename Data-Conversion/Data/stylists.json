@@ -1,0 +1,46 @@
+[
+  {
+    "_id": { "oldId": "5e06abdef19deb7fe81bb123" },
+    "lastName": "Mikesell",
+    "isAdmin": true,
+    "isActive": true,
+    "firstName": "Tara",
+    "fullName": "Tara Mikesell",
+    "username": "tara",
+    "password": "1234",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e41d8bcf71d07ac56049a" },
+    "lastName": "Tolleson",
+    "isAdmin": true,
+    "isActive": true,
+    "firstName": "Paula",
+    "fullName": "Paula Tolleson",
+    "username": "paula",
+    "password": "1234",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e44edbcf71d07ac56049c" },
+    "lastName": "Gomez",
+    "isAdmin": false,
+    "isActive": true,
+    "firstName": "Denisse",
+    "fullName": "Denisse Gomez",
+    "username": "Denisse",
+    "password": "1234",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e14bdd6059a5e17e87cd4b8" },
+    "lastName": "White",
+    "isAdmin": false,
+    "isActive": true,
+    "firstName": "Shelli",
+    "fullName": "Shelli White",
+    "username": "shelli",
+    "password": "1234",
+    "__v": { "numberInt": "0" }
+  }
+]

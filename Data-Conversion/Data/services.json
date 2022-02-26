@@ -1,0 +1,471 @@
+[
+  {
+    "_id": { "oldId": "5e0e48c7f4f4372520c7e36e" },
+    "isCustom": true,
+    "desc": "Custom",
+    "price": "0.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e6d897ddf1f0c2c9011d3" },
+    "isCustom": false,
+    "desc": " HAIRCUT CHILD",
+    "price": "15.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e6db27ddf1f0c2c9011d4" },
+    "isCustom": false,
+    "desc": " HAIRCUT & STYLE FOR CHILD",
+    "price": "25.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e6dc67ddf1f0c2c9011d5" },
+    "isCustom": false,
+    "desc": " HAIRCUT ADULT",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e6ddc7ddf1f0c2c9011d6" },
+    "isCustom": false,
+    "desc": "A SENIOR HAIRCUT",
+    "price": "18.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e6e0c7ddf1f0c2c9011d7" },
+    "isCustom": false,
+    "desc": " HAIRCUT & STYLE short hair",
+    "price": "32.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e6e3d7ddf1f0c2c9011d8" },
+    "isCustom": false,
+    "desc": " HAIRCUT & STYLE medium length",
+    "price": "38.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e6e587ddf1f0c2c9011d9" },
+    "isCustom": false,
+    "desc": " HAIRCUT & STYLE long hair",
+    "price": "48.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e6e757ddf1f0c2c9011da" },
+    "isCustom": false,
+    "desc": " HAIRCUT & STYLE xlong hair",
+    "price": "58.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e6ea47ddf1f0c2c9011db" },
+    "isCustom": false,
+    "desc": "A SENIOR HAIRCUT & STYLE",
+    "price": "29.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e6ed47ddf1f0c2c9011dc" },
+    "isCustom": false,
+    "desc": "A SENIOR SHAMPOO/STYLE",
+    "price": "21.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e6ef37ddf1f0c2c9011dd" },
+    "isCustom": false,
+    "desc": "  SHAMPOO STYLE SHORT LENGTH",
+    "price": "23.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e6f0a7ddf1f0c2c9011de" },
+    "isCustom": false,
+    "desc": "  SHAMPOO STYLE medium length",
+    "price": "28.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e6f1d7ddf1f0c2c9011df" },
+    "isCustom": false,
+    "desc": "  SHAMPOO STYLE long length",
+    "price": "40.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e70137ddf1f0c2c9011e0" },
+    "isCustom": false,
+    "desc": "   STYLE WITH FLAT IRON short hair",
+    "price": "35.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e702a7ddf1f0c2c9011e1" },
+    "isCustom": false,
+    "desc": "   STYLE WITH FLAT IRON medium hair",
+    "price": "40.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e70457ddf1f0c2c9011e2" },
+    "isCustom": false,
+    "desc": "  STYLE WITH FLAT IRON long hair",
+    "price": "50.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e70637ddf1f0c2c9011e3" },
+    "isCustom": false,
+    "desc": "   STYLE WITH FLAT IRON xtra long hair",
+    "price": "60.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e72097ddf1f0c2c9011e4" },
+    "isCustom": false,
+    "desc": "UPDO STYLES",
+    "price": "50.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e72257ddf1f0c2c9011e5" },
+    "isCustom": false,
+    "desc": " HAIRCUT BANGTRIM",
+    "price": "8.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e72397ddf1f0c2c9011e6" },
+    "isCustom": false,
+    "desc": " HAIRCUT BEARDTRIM",
+    "price": "6.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e735874ad20233ce4f32f" },
+    "isCustom": false,
+    "desc": "PERM ",
+    "price": "68.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e73b974ad20233ce4f331" },
+    "isCustom": false,
+    "desc": "A SENIOR PERM ONLY",
+    "price": "58.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e741674ad20233ce4f333" },
+    "isCustom": false,
+    "desc": "PERM SPECIAL WRAP",
+    "price": "130.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e742c74ad20233ce4f334" },
+    "isCustom": false,
+    "desc": "PERM XTRA SOLUTION",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e74a374ad20233ce4f336" },
+    "isCustom": false,
+    "desc": "COLOR RETOUCH",
+    "price": "65.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e74bd74ad20233ce4f337" },
+    "isCustom": false,
+    "desc": "COLOR 1xtra charge",
+    "price": "10.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e7593bf566c096c0d429f" },
+    "isCustom": false,
+    "desc": "COLOR 2xtra charge",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e75a3bf566c096c0d42a0" },
+    "isCustom": false,
+    "desc": "COLOR 3xtra charge",
+    "price": "30.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e75cbbf566c096c0d42a1" },
+    "isCustom": false,
+    "desc": "COLOR CORRECRTIVE/FIX",
+    "price": "130.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e75f6bf566c096c0d42a2" },
+    "isCustom": false,
+    "desc": "COLOR SERVICE/ CAP HIGHLIGHTS",
+    "price": "75.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e760abf566c096c0d42a3" },
+    "isCustom": false,
+    "desc": "COLOR SERVICE/ PARTIAL HIGHLIGHTS",
+    "price": "75.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e761cbf566c096c0d42a4" },
+    "isCustom": false,
+    "desc": "COLOR SERVICE/ FULL FOIL HIGHLIGHTS",
+    "price": "100.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e7678bf566c096c0d42a5" },
+    "isCustom": false,
+    "desc": "COLOR SERVICE/ OMBRE/ BAYALAGE medium length",
+    "price": "150.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e769dbf566c096c0d42a6" },
+    "isCustom": false,
+    "desc": "COLOR SERVICE/ OMBRE/BAYALAGE long hair",
+    "price": "180.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e76b9bf566c096c0d42a7" },
+    "isCustom": false,
+    "desc": "COLOR 5xtra charge",
+    "price": "50.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e76f1bf566c096c0d42a8" },
+    "isCustom": false,
+    "desc": "TREATMENT BRAZILIAN BLOWOUT",
+    "price": "200.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e7713bf566c096c0d42a9" },
+    "isCustom": false,
+    "desc": "TREATMENT BRAZILIAN BLOWOUT XTRA CHARGE",
+    "price": "50.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e7726bf566c096c0d42aa" },
+    "isCustom": false,
+    "desc": "TREATMENT B3 TREATMENT",
+    "price": "50.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e7744bf566c096c0d42ab" },
+    "isCustom": false,
+    "desc": "TREATMENT MASQUE",
+    "price": "25.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e776ebf566c096c0d42ac" },
+    "isCustom": false,
+    "desc": "TREATMENT RECONSTRUCTOR",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e78bebf566c096c0d42ad" },
+    "isCustom": false,
+    "desc": "A SENIOR COLOR RETOUCH",
+    "price": "55.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e7946bf566c096c0d42b0" },
+    "isCustom": false,
+    "desc": "A SENIOR PARTIAL HIGHLIGHTS",
+    "price": "65.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e795bbf566c096c0d42b1" },
+    "isCustom": false,
+    "desc": "A SENIOR CAP HIGHLIGHTS",
+    "price": "65.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e0e7a3bbf566c096c0d42b2" },
+    "isCustom": false,
+    "desc": " HAIRCUT DISCOUNT",
+    "price": "18.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e1129a2deb4060b4ce38ab9" },
+    "isCustom": false,
+    "desc": "   SHAMPOO ONLY",
+    "price": "10.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e14c028059a5e17e87cd4b9" },
+    "isCustom": false,
+    "desc": " HAIRCUT BUZZCUT",
+    "price": "16.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e14c03b059a5e17e87cd4ba" },
+    "isCustom": false,
+    "desc": " HAIRCUT BANGTRIM DISCOUNT",
+    "price": "5.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e175d1173b1031df4856931" },
+    "isCustom": false,
+    "desc": "Xtra charge 10",
+    "price": "10.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e175d2773b1031df4856932" },
+    "isCustom": false,
+    "desc": "Xtra charge 20",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e175da473b1031df4856933" },
+    "isCustom": false,
+    "desc": "Xtra charge 30",
+    "price": "30.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e17a1ee9821812a98611d85" },
+    "isCustom": false,
+    "desc": "WAX",
+    "price": "12.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e20e149a417ae319005c7bd" },
+    "isCustom": false,
+    "desc": "Xtra charge 5",
+    "price": "5.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e20e1c4a417ae319005c7be" },
+    "isCustom": false,
+    "desc": "Xtra charge 15",
+    "price": "15.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e20e20ba417ae319005c7bf" },
+    "isCustom": false,
+    "desc": "Xtra charge 25",
+    "price": "25.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e221b413317ed443cf73fcf" },
+    "isCustom": false,
+    "desc": "COLOR SERVICE/ FOIL HIGHLIGHTS",
+    "price": "90.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e221c163317ed443cf73fd0" },
+    "isCustom": false,
+    "desc": "TREATMENT MISC.",
+    "price": "15.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e221c353317ed443cf73fd1" },
+    "isCustom": false,
+    "desc": "TREATMENT GET PURE",
+    "price": "20.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e277f632ff048303c9b21da" },
+    "isCustom": false,
+    "desc": "   SHAMPOO DISCOUNT",
+    "price": "5.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "5e3f246afc35bb1d581c466b" },
+    "isCustom": false,
+    "desc": "COLOR SERVICE/ TONER",
+    "price": "25.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "605dfc2db5f31c0530cf91ec" },
+    "isCustom": false,
+    "desc": "COLOR SEVICE/HIGHLIGHTS",
+    "price": "90.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "605dfcdfb5f31c0530cf91f0" },
+    "isCustom": false,
+    "desc": "COLOR SERVICE/HIGHLITES",
+    "price": "125.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "605dfdafb5f31c0530cf91f1" },
+    "isCustom": false,
+    "desc": "COLOR SERVICE/HIGHLITES LONG HAIR",
+    "price": "175.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "605dfde9b5f31c0530cf91f2" },
+    "isCustom": false,
+    "desc": "COLOR SERVICE/XTRA LONG HIGHLITES",
+    "price": "200.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "6082d968469f7f1aac28ca8c" },
+    "isCustom": false,
+    "desc": "COLOR SERVICE/Bleach Retouch",
+    "price": "75.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "6082daa2469f7f1aac28ca8d" },
+    "isCustom": false,
+    "desc": "A SENIOR Full Highlight",
+    "price": "90.00",
+    "__v": { "numberInt": "0" }
+  },
+  {
+    "_id": { "oldId": "6082db4d469f7f1aac28ca8e" },
+    "isCustom": false,
+    "desc": "UPDO STYLES EXTRA",
+    "price": "25.00",
+    "__v": { "numberInt": "0" }
+  }
+]
