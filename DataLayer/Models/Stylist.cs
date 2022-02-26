@@ -1,4 +1,6 @@
-﻿namespace DataLayer.Models
+﻿using Dapper.Contrib.Extensions;
+
+namespace DataLayer.Models
 {
     public class Stylist : ICrudObject
     {
@@ -6,9 +8,8 @@
         public string FirstName { get; set; }
 
         public string LastName { get; set; }
-
-        public string FullName { get; set; }
-
+        [Computed]
+        public string FullName => FirstName + " " + LastName;
         public string Username { get; set; }
 
         public string Password { get; set; }

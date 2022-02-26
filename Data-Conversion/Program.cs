@@ -25,8 +25,14 @@ using DataLayer.Models;
 //foreach (string file in files)
 //    MongoJsonCleaner.CleanFile(file, options);
 
-UnitOfWork uow = new(@"Data Source=localhost\SQLEXPRESS;Initial Catalog=SHTest;User Id=testUser; Password=testing;");
+//UnitOfWork uow = new(@"Data Source=localhost\SQLEXPRESS;Initial Catalog=SHTest;User Id=testUser; Password=testing;");
 
 //await DataConverter.ConvertCustomers(uow);
 
-await DataConverter.ConvertProducts(uow);
+//await DataConverter.ConvertProducts(uow);
+
+//await DataConverter.ConvertServices(uow);
+
+//await DataConverter.ConvertStylists(uow);
+
+//await DataConverter.ConvertTransactions(uow);

@@ -7,7 +7,7 @@ namespace DataLayer.Models
         public int ID { get; set; }
 
         public int CreatedById { get; set; }
-
+        public int CustomerId { get; set; }
         public string Details { get; set; }
 
         public decimal GrandTotal { get; set; }
@@ -15,6 +15,7 @@ namespace DataLayer.Models
         public decimal ProductTotal { get; set; }
 
         public decimal ServiceTotal { get; set; }
+        public decimal GiftCertificateTotal { get; set; }
 
         public decimal Taxes { get; set; }
 

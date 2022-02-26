@@ -19,6 +19,5 @@ namespace DataLayer.Models
         public Service Service { get; set; }
         [Computed]
         public Stylist Stylist { get; set; }
-
     }
 }
