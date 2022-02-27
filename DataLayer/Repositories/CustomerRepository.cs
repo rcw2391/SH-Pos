@@ -2,5 +2,7 @@
 
 namespace DataLayer.Repositories
 {
-    public class CustomerRepository : RepositoryBase<Customer> { }
+    public class CustomerRepository : RepositoryBase<Customer>
+    {
+    }
 }

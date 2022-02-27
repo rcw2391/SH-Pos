@@ -1,0 +1,12 @@
+C:\SH\SH\BusinessEngine\bin\Debug\net6.0\BusinessEngine.deps.json
+C:\SH\SH\BusinessEngine\bin\Debug\net6.0\BusinessEngine.dll
+C:\SH\SH\BusinessEngine\bin\Debug\net6.0\ref\BusinessEngine.dll
+C:\SH\SH\BusinessEngine\bin\Debug\net6.0\BusinessEngine.pdb
+C:\SH\SH\BusinessEngine\obj\Debug\net6.0\BusinessEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\SH\SH\BusinessEngine\obj\Debug\net6.0\BusinessEngine.AssemblyInfoInputs.cache
+C:\SH\SH\BusinessEngine\obj\Debug\net6.0\BusinessEngine.AssemblyInfo.cs
+C:\SH\SH\BusinessEngine\obj\Debug\net6.0\BusinessEngine.csproj.CoreCompileInputs.cache
+C:\SH\SH\BusinessEngine\obj\Debug\net6.0\BusinessEngine.dll
+C:\SH\SH\BusinessEngine\obj\Debug\net6.0\ref\BusinessEngine.dll
+C:\SH\SH\BusinessEngine\obj\Debug\net6.0\BusinessEngine.pdb
+C:\SH\SH\BusinessEngine\obj\Debug\net6.0\BusinessEngine.csproj.AssemblyReference.cache

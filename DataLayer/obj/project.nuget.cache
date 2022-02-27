@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dl2lZRTY1/3lFdeGiC7vGavsAyyipWPGezA+ukg8KFM5wcMFBH2lMp7lbVugoi9yavi17nhzwOh5hfHxka2kFQ==",
+  "dgSpecHash": "bRMBDkEYTFbz+C9ieiEGyGuyt6rl9i2wyTkbjssdfKrCdmw0qgcnlxdJDI7lZNM9tgnHESlegCSOug8ix6c0RQ==",
   "success": true,
   "projectFilePath": "C:\\SH\\SH\\DataLayer\\DataLayer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rcwil\\.nuget\\packages\\communitytoolkit.mvvm\\7.1.2\\communitytoolkit.mvvm.7.1.2.nupkg.sha512",
     "C:\\Users\\rcwil\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\rcwil\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
     "C:\\Users\\rcwil\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

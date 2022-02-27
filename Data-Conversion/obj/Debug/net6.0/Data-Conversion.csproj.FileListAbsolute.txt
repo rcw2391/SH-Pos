@@ -27,3 +27,4 @@ C:\SH\SH\Data-Conversion\bin\Debug\net6.0\DataLayer.pdb
 C:\SH\SH\Data-Conversion\bin\Debug\net6.0\Common.pdb
 C:\SH\SH\Data-Conversion\obj\Debug\net6.0\Data-Conversion.csproj.CopyComplete
 C:\SH\SH\Data-Conversion\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\SH\SH\Data-Conversion\bin\Debug\net6.0\CommunityToolkit.Mvvm.dll

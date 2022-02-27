@@ -2,7 +2,7 @@
 
 namespace DataLayer.Repositories
 {
-    public interface IRepository<T> where T : ICrudObject
+    public interface IRepository<T> : IRepository where T : class, ICrudObject
     {
         Task<T> CreateAsync(T entity);
         Task<T> CreateAsync(T entity, SqlTransaction transaction);
@@ -15,5 +15,10 @@ namespace DataLayer.Repositories
         Task<bool> DeleteByIdAsync(int id);
         Task<IEnumerable<T>> GetAllAsync();
         Task<T> GetByIdAsync(int id);
+    }
+
+    public interface IRepository
+    {
+        Type RepositoryType { get; }
     }
 }

@@ -6,6 +6,8 @@ namespace DataLayer.Repositories
 {
     public class RepositoryBase<T> : IRepository<T> where T : class, ICrudObject, new()
     {
+        public Type RepositoryType => typeof(T);
+
         public virtual async Task<T> CreateAsync(T entity)
         {
             using var connection = await DbConnectionFactory.Instance.GetConnectionAsync();
@@ -61,44 +63,26 @@ namespace DataLayer.Repositories
         {
             using var connection = await DbConnectionFactory.Instance.GetConnectionAsync();
 
-            List<Task<bool>> deleteTasks = new();
+            return await connection.DeleteAsync(entities);
 
-            SqlTransaction transaction = connection.BeginTransaction();
+            //List<Task<bool>> deleteTasks = new();
 
-            foreach (var entity in entities)
-                deleteTasks.Add(DeleteAsync(entity, transaction));
+            //foreach (var entity in entities)
+            //    deleteTasks.Add(DeleteAsync(entity));
 
-            await Task.WhenAll(deleteTasks);
+            //await Task.WhenAll(deleteTasks);
 
-            bool ret = true;
+            //bool ret = true;
 
-            foreach (var task in deleteTasks)
-            {
-                if (!task.Result)
-                {
-                    ret = false;
-                    break;
-                }
-            }
-
-            try
-            {
-                transaction.Commit();
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine("Commit failed.");
-
-                try
-                {
-                    transaction.Rollback();
-                }
-                catch (Exception ex2)
-                {
-                    Console.WriteLine("Rollback failed.");
-                }
-            }
-            return ret;
+            //foreach (var task in deleteTasks)
+            //{
+            //    if (!task.Result)
+            //    {
+            //        ret = false;
+            //        break;
+            //    }
+            //}
+            //return ret;
         }
 
         public async Task<bool> DeleteByIdAsync(int id)

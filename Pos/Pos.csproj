@@ -17,24 +17,40 @@
     <Generator>MSBuild:Compile</Generator>
     <SubType>Designer</SubType>
   </Page>
+  <Page Include="Views\CustomerView.xaml">
+    <Generator>MSBuild:Compile</Generator>
+  </Page>
+  <Page Include="Views\LoginView.xaml">
+    <Generator>MSBuild:Compile</Generator>
+  </Page>
   <Compile Include="App.xaml.cs">
     <DependentUpon>App.xaml</DependentUpon>
     <SubType>Code</SubType>
   </Compile>
+  <Compile Include="Cache\CacheList.cs" />
+  <Compile Include="Cache\DataCache.cs" />
+  <Compile Include="Cache\ICacheList.cs" />
   <Compile Include="MainWindow.xaml.cs">
     <DependentUpon>MainWindow.xaml</DependentUpon>
     <SubType>Code</SubType>
   </Compile>
+  <Compile Include="MainWindowViewModel.cs" />
+  <Compile Include="SecurityManager.cs" />
+  <Compile Include="ViewModels\LoginViewModel.cs" />
+  <Compile Include="Views\CustomerView.xaml.cs" />
+  <Compile Include="ViewModels\CustomerViewModel.cs" />
+  <Compile Include="Views\LoginView.xaml.cs" />
 </ItemGroup>
 
   
   <ItemGroup>
-    <Reference Include="Telerik.Windows.Controls">
-      <HintPath>..\lib\RCWPF\2021.3.914.60.NoXaml\Telerik.Windows.Controls.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Themes.Fluent">
-      <HintPath>..\lib\RCWPF\2021.3.914.60.NoXaml\Telerik.Windows.Themes.Fluent.dll</HintPath>
-    </Reference>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Telerik.UI.for.Wpf.60" Version="2022.1.222" />
+  </ItemGroup>
+
+  
+  <ItemGroup>
+    <ProjectReference Include="..\DataLayer\DataLayer.csproj" />
   </ItemGroup>
 
 </Project>

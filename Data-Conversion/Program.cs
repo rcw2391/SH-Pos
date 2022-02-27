@@ -2,6 +2,11 @@
 using DataLayer;
 using DataLayer.Models;
 
+static void Main(string[] args)
+{
+
+}
+
 //string folder = @"C:\SH\SH\Data-Conversion\Data\";
 
 //string[] files = Directory.GetFiles(folder);

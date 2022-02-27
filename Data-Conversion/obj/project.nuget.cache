@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "clgtCXKdldIlSjjt2+CouSb6NYUrmXgcD/pDaQzVO9pOjwgLXlCSNtaBTubtGVQiwFgdyYIwi1ih9ApKOvomJA==",
+  "dgSpecHash": "i7jBkCY2KCPvhKqgzUqaARRkkXQJ5weKFKZlT13gC0DO7KjnvlPB7BnQwGRjAPRh9vUfZwF8QX3QptoWceVPBA==",
   "success": true,
   "projectFilePath": "C:\\SH\\SH\\Data-Conversion\\Data-Conversion.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\rcwil\\.nuget\\packages\\communitytoolkit.mvvm\\7.1.2\\communitytoolkit.mvvm.7.1.2.nupkg.sha512",
     "C:\\Users\\rcwil\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\rcwil\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
     "C:\\Users\\rcwil\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",

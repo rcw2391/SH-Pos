@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7R+BYNkPGTEKvJLb/1FHhRf1kFpaXWV4rdELkccvorwxTkT7MQJaDgArNZwqo/oZDlWEDQZ3+j+6/el9qRJz0g==",
+  "dgSpecHash": "JoSsiozNd301IClen5FyPkJyW1Jj071DiGbEi3/snLI21cdV0ljKk1JyiLyI0Xa6lO+2kz/6U2s8RIhG/Iogkg==",
   "success": true,
   "projectFilePath": "C:\\SH\\SH\\Common\\Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rcwil\\.nuget\\packages\\communitytoolkit.mvvm\\7.1.2\\communitytoolkit.mvvm.7.1.2.nupkg.sha512"
+  ],
   "logs": []
 }
