@@ -36,5 +36,6 @@ namespace Pos
 
         public ICacheList<Customer> Customers { get; private set; }
         public ICacheList<User> Users { get; private set; }
+        public ICacheList<Stylist> Stylists { get; private set; }
     }
 }

@@ -38,7 +38,6 @@ namespace Pos
 
                 return _customerVm;
             }
-            //set => SetProperty(ref _customerVm, value);
         }
 
         private LoginViewModel _loginVm;

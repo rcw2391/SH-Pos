@@ -45,13 +45,13 @@ namespace DataLayer
             _repos = new();
 
             _repos.Add(Customers.RepositoryType, Customers);
-            //_repos.Add(Transactions);
-            //_repos.Add(Services);
-            //_repos.Add(Products);
-            //_repos.Add(Stylists);
-            //_repos.Add(GiftCertificates);
-            //_repos.Add(Payments);
-            //_repos.Add(TransactionLines);
+            _repos.Add(Transactions.RepositoryType, Transactions);
+            _repos.Add(Services.RepositoryType, Services);
+            _repos.Add(Products.RepositoryType, Products);
+            _repos.Add(Stylists.RepositoryType, Stylists);
+            _repos.Add(GiftCertificates.RepositoryType, GiftCertificates);
+            _repos.Add(Payments.RepositoryType, Payments);
+            _repos.Add(TransactionLines.RepositoryType, TransactionLines);
             _repos.Add(Users.RepositoryType ,Users);
         }
 

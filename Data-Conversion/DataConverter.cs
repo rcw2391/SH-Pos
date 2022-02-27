@@ -103,6 +103,7 @@ namespace DataConversion
             List<OldStylist> oldStylists = new(GetJson<OldStylist>("stylists.json"));
 
             List<Stylist> newStylists = new();
+            List<User> newUsers = new();
 
             foreach (OldStylist s in oldStylists)
             {
@@ -110,15 +111,27 @@ namespace DataConversion
                 {
                     FirstName = s.firstName,
                     LastName = s.lastName,
-                    Username = s.username,
-                    Password = s.password,
-                    IsActive = s.isActive,
-                    IsAdmin = s.isAdmin,
-                    IsManager = false
+                    IsActive = s.isActive
                 });
+
+                
             }
 
             newStylists = new(await uow.Stylists.CreateAsync(newStylists));
+
+            for (int i = 0; i < oldStylists.Count; i++)
+            {
+                newUsers.Add(new User()
+                {
+                    Username = oldStylists[i].username,
+                    Password = oldStylists[i].password,
+                    StylistId = newStylists[i].ID,
+                    IsAdmin = false,
+                    IsActive = true
+                });
+            }
+
+            await uow.Users.CreateAsync(newUsers);
 
             return true;
         }

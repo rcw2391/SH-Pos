@@ -1,22 +1,33 @@
-﻿using Dapper.Contrib.Extensions;
+﻿using Common;
+using Dapper.Contrib.Extensions;
 
 namespace DataLayer.Models
 {
-    public class Stylist : ICrudObject
+    public class Stylist : PropertyChangedBase, ICrudObject, ICacheable
     {
-        public int ID { get; set; }
-        public string FirstName { get; set; }
+        private int _iD;
+        public int ID
+        {
+            get => _iD;
+            set => SetProperty(ref _iD, value);
+        }
+        private string _firstName;
+        public string FirstName
+        {
+            get => _firstName;
+            set => SetProperty(ref _firstName, value);
+        }
 
-        public string LastName { get; set; }
+        private string _lastName;
+        public string LastName
+        {
+            get => _lastName;
+            set => SetProperty(ref _lastName, value);
+        }
         [Computed]
         public string FullName => FirstName + " " + LastName;
-        public string Username { get; set; }
-
-        public string Password { get; set; }
-
-        public bool IsAdmin { get; set; }
-        public bool IsManager { get; set; }
-
         public bool IsActive { get; set; }
+        [Computed]
+        public bool IsDeleted { get; set; }
     }
 }

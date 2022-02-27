@@ -36,6 +36,13 @@ namespace DataLayer.Models
             set => SetProperty(ref _isAdmin, value);
         }
 
+        private bool _isActive;
+        public bool IsActive
+        {
+            get => _isActive;
+            set => SetProperty(ref _isActive, value);
+        }
+
         private bool _isDeleted;
         [Computed]
         public bool IsDeleted
