@@ -87,5 +87,6 @@
                      Grid.Column="1"
                      Grid.ColumnSpan="2"/>
         </Grid>
+        <Button>Save</Button>
     </Grid>
 </UserControl>
