@@ -9,4 +9,3 @@ C:\SH\SH\BusinessEngine\obj\Debug\net6.0\BusinessEngine.csproj.CoreCompileInputs
 C:\SH\SH\BusinessEngine\obj\Debug\net6.0\BusinessEngine.dll
 C:\SH\SH\BusinessEngine\obj\Debug\net6.0\ref\BusinessEngine.dll
 C:\SH\SH\BusinessEngine\obj\Debug\net6.0\BusinessEngine.pdb
-C:\SH\SH\BusinessEngine\obj\Debug\net6.0\BusinessEngine.csproj.AssemblyReference.cache

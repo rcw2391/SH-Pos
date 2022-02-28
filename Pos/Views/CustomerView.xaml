@@ -6,19 +6,86 @@
              xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
              xmlns:local="clr-namespace:Pos.Views"
              mc:Ignorable="d">
+    <UserControl.Resources>
+
+    </UserControl.Resources>
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
-            <RowDefinition Height="Auto"/>
-            <RowDefinition Height="Auto"/>
-            <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
-        <telerik:RadGridView ShowGroupPanel="False" EnableRowVirtualization="True" AutoGenerateColumns="True" ItemsSource="{Binding Customers}" SelectedItem="{Binding SelectedCustomer}" MaxHeight="600" MaxWidth="800" IsReadOnly="True"/>
+        <telerik:RadGridView ShowGroupPanel="False" 
+                             EnableRowVirtualization="True" 
+                             AutoGenerateColumns="False" 
+                             ItemsSource="{Binding Customers}" 
+                             SelectedItem="{Binding SelectedCustomer}" 
+                             MaxHeight="600" 
+                             MaxWidth="1400" 
+                             IsReadOnly="True">
+            <telerik:RadGridView.Columns>
+                <telerik:GridViewDataColumn Header="Name" 
+                                            DataMemberBinding="{Binding FullName}" Width="150"/>
+                <telerik:GridViewDataColumn Header="Phone" 
+                                            DataMemberBinding="{Binding PhoneDisplay}" Width="100"/>
+                <telerik:GridViewDataColumn Header="Email" 
+                                            DataMemberBinding="{Binding Email}" Width="150"/>
+                <telerik:GridViewDataColumn Header="Formula" 
+                                            DataMemberBinding="{Binding Formula}" Width="300" TextWrapping="Wrap"/>
+                <telerik:GridViewDataColumn Header="Duration" 
+                                            DataMemberBinding="{Binding Duration}" Width="300" TextWrapping="Wrap"/>
+            </telerik:RadGridView.Columns>
+        </telerik:RadGridView>
 
-        <TextBox Grid.Row="1" Text="{Binding SelectedCustomer.FirstName}"/>
-        <Button Grid.Row="2" Command="{Binding ClickMeCommand}">Save</Button>
-        <Button Grid.Row="3" Command="{Binding DeleteCommand}">Delete</Button>
-        <Button Grid.Row="4" Command="{Binding InsertCommand}">Insert</Button>
+        <Grid Grid.Row="1" Width="800">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <Label Style="{StaticResource FormLabel}">First Name:</Label>
+            <TextBox Style="{StaticResource FormTextBoxSmall}"
+                     Grid.Column="1"/>
+
+            <Label Style="{StaticResource FormLabel}"
+                   Grid.Column="2">Last Name:</Label>
+            <TextBox Style="{StaticResource FormTextBoxSmall}"
+                     Grid.Column="3"/>
+
+            <Label Style="{StaticResource FormLabel}"
+                   Grid.Row="1"
+                   Grid.Column="2">Phone:</Label>
+            <TextBox Style="{StaticResource FormTextBoxSmall}"
+                     Grid.Row="1"
+                     Grid.Column="5"/>
+
+            <Label Style="{StaticResource FormLabel}"
+                   Grid.Row="1">Email:</Label>
+            <TextBox Style="{StaticResource FormTextBoxSmall}"
+                     Grid.Row="1"
+                     Grid.Column="1"/>
+
+            <Label Style="{StaticResource FormLabel}"
+                   Grid.Row="3"
+                   Grid.Column="0">Formula:</Label>
+            <TextBox Style="{StaticResource FormTextBoxBig}"
+                     Grid.Row="3" 
+                     Grid.Column="1" 
+                     Grid.ColumnSpan="2"/>
+
+            <Label Style="{StaticResource FormLabel}" 
+                   Grid.Row="2"
+                   Grid.Column="0">Duration:</Label>
+            <TextBox Style="{StaticResource FormTextBoxBig}"
+                     Grid.Row="2"
+                     Grid.Column="1"
+                     Grid.ColumnSpan="2"/>
+        </Grid>
     </Grid>
 </UserControl>

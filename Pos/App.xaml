@@ -17,7 +17,31 @@
 
             <Style TargetType="telerik:RadGridView" BasedOn="{StaticResource RadGridViewStyle}"/>
             <Style TargetType="telerik:RadTabItem" BasedOn="{StaticResource RadTabItemStyle}"/>
-            
+
+            <Style TargetType="Label" x:Key="FormLabel">
+                <Setter Property="HorizontalAlignment" Value="Left"/>
+                <Setter Property="VerticalAlignment" Value="Top"/>
+                <Setter Property="Margin" Value="2"/>
+            </Style>
+
+            <Style TargetType="TextBox" x:Key="FormTextBoxSmall">
+                <Setter Property="HorizontalAlignment" Value="Stretch"/>
+                <Setter Property="VerticalAlignment" Value="Top"/>
+                <Setter Property="Margin" Value="2"/>
+                <Setter Property="MaxLines" Value="1"/>
+                <Setter Property="TextWrapping" Value="NoWrap"/>
+                <Setter Property="Height" Value="20"/>
+            </Style>
+
+            <Style TargetType="TextBox" x:Key="FormTextBoxBig">
+                <Setter Property="HorizontalAlignment" Value="Stretch"/>
+                <Setter Property="VerticalAlignment" Value="Top"/>
+                <Setter Property="Margin" Value="2"/>
+                <Setter Property="MaxLines" Value="5"/>
+                <Setter Property="TextWrapping" Value="Wrap"/>
+                <Setter Property="Height" Value="100"/>
+            </Style>
+
         </ResourceDictionary>
     </Application.Resources>
 </Application>
